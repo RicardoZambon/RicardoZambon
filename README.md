@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/medium.png" style="vertical-align:text-bottom;" /> [medium.com/@ricardo.zambon](https://medium.com/@ricardo.zambon)
+<img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/medium.png" style="vertical-align:text-bottom;" /> [@ricardo.zambon](https://medium.com/@ricardo.zambon)
 
 <img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/linkedin.png" style="vertical-align:text-bottom;" /> [linkedin.com/in/ricardozambon](https://www.linkedin.com/in/ricardozambon)
 
