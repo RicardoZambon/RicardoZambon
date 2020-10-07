@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./linkedin.png" />
+<img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/linkedin.png" style="vertical-align:text-bottom;" /> [linkedin.com/in/ricardozambon/](https://www.linkedin.com/in/ricardozambon/)
 
 <!--
 **RicardoZambon/RicardoZambon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
