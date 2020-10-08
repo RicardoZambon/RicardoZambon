@@ -1,10 +1,8 @@
+![LinkedIn](https://img.shields.io/badge/in%2FRicardoZambon-blue?logo=LinkedIn&logoColor=white)
+![Medium](https://img.shields.io/badge/%40Ricardo.Zambon-black?logo=Medium&logoColor=white)
+![Instagram](https://img.shields.io/badge/%40ZambonRicardo-blueviolet?logo=Instagram&logoColor=white&?color=white)
+
 ### Hi there 👋
-
-<img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/linkedin.png" style="vertical-align:text-bottom;" /> [ricardozambon](https://www.linkedin.com/in/ricardozambon)
-
-<img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/medium.png" style="vertical-align:text-bottom;" /> [@ricardo.zambon](https://medium.com/@ricardo.zambon)
-
-<img src="http://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/instagram.png" style="vertical-align:text-bottom;" /> [@zambonricardo](https://www.instagram.com/zambonricardo)
 
 <!--
 **RicardoZambon/RicardoZambon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
