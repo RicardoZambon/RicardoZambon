@@ -1,6 +1,6 @@
-![LinkedIn](https://img.shields.io/badge/in%2FRicardoZambon-blue?logo=LinkedIn&logoColor=white)
-![Medium](https://img.shields.io/badge/%40Ricardo.Zambon-black?logo=Medium&logoColor=white)
-![Instagram](https://img.shields.io/badge/%40ZambonRicardo-blueviolet?logo=Instagram&logoColor=white&?color=white)
+[![LinkedIn](https://img.shields.io/badge/in%2FRicardoZambon-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ricardozambon)
+[![Medium](https://img.shields.io/badge/%40Ricardo.Zambon-black?logo=Medium&logoColor=white)](https://medium.com/@ricardo.zambon)
+[![Instagram](https://img.shields.io/badge/%40ZambonRicardo-blueviolet?logo=Instagram&logoColor=white&?color=white)](https://www.instagram.com/zambonricardo)
 
 ### Hi there 👋
 
