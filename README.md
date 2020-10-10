@@ -1,20 +1,27 @@
-[![LinkedIn](https://img.shields.io/badge/in%2FRicardoZambon-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ricardozambon)
-[![Medium](https://img.shields.io/badge/%40Ricardo.Zambon-black?logo=Medium&logoColor=white)](https://medium.com/@ricardo.zambon)
-[![Instagram](https://img.shields.io/badge/%40ZambonRicardo-blueviolet?logo=Instagram&logoColor=white&?color=white)](https://www.instagram.com/zambonricardo)
+## Hi there, I'm Ricardo Zambon 👋
 
-### Hi there 👋
+I'm a developer from Brazil, I work with development since 2006, graduated in 2012.
 
-<!--
-**RicardoZambon/RicardoZambon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working in SMART Modular Technologies
+- 🌱 I’m currently learning Angular and MongoDB
+- 💬 Ask me about my YouTube Channel (please subscribe :D)
+- ⚡ Fun fact: I like play in Xbox (sorry Sony)
 
-Here are some ideas to get you started:
+## 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Ricardo Zambon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ricardo Zambon | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Ricardo Zambon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ricardo Zambon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ricardo Zambon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+## :zap: GitHub Stats
+<img align="left" alt="Ricardo Zambon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardozambon&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/rickzambon
+[youtube]: https://www.youtube.com/channel/UCWngDxayHzHSIfJRH5hjEmw
+[medium]: https://medium.com/@ricardo.zambon
+[instagram]: https://www.instagram.com/zambonricardo
+[linkedin]: https://www.linkedin.com/in/ricardozambon
