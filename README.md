@@ -17,6 +17,23 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 
 <br />
 
+## :wrench: Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/visual-studio-code.png" />
+<img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/csharp.png" />
+<img align="left" alt=".NET Core" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/netcore.png" />
+<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/css.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/javascript.png" />
+<img align="left" alt="SQL" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/sql.png" />
+<img align="left" alt="SQL Server" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/sqlserver.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/mongodb.png" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/github.png" />
+<img align="left" alt="Microsoft Azure" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/azure.png" />
+
+<br />
+
 ## :zap: GitHub Stats
 <img align="left" alt="Ricardo Zambon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardozambon&show_icons=true&hide_border=true" />
 
