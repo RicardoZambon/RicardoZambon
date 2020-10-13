@@ -7,7 +7,7 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 - 💬 Ask me about my YouTube Channel (please subscribe :D)
 - ⚡ Fun fact: I like play in Xbox (sorry Sony)
 
-## 📫 How to reach me
+### How to reach me
 
 [<img align="left" alt="Ricardo Zambon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ricardo Zambon | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -16,8 +16,9 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 [<img align="left" alt="Ricardo Zambon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-## :wrench: Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/visual-studio-code.png" />
 <img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/csharp.png" />
@@ -33,8 +34,9 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 <img align="left" alt="Microsoft Azure" width="32px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/azure.png" />
 
 <br />
+<br />
 
-## :zap: GitHub Stats
+### GitHub Stats
 <img align="left" alt="Ricardo Zambon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardozambon&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/rickzambon
