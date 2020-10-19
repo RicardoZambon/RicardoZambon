@@ -25,6 +25,7 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 <img align="left" alt=".NET Core" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/netcore.png" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/bootstrap.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/javascript.png" />
 <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/sql.png" />
 <img align="left" alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/sqlserver.png" />
