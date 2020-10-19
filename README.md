@@ -18,7 +18,7 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/visual-studio-code.png" />
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/csharp.png" />
@@ -37,7 +37,7 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 <br />
 <br />
 
-### GitHub Stats
+### GitHub stats
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true">
