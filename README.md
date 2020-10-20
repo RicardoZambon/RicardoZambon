@@ -1,4 +1,4 @@
-## Hi there, I'm Ricardo Zambon 👋
+## Hi there, I'm Ricardo Zambon 👋 ![](https://komarev.com/ghpvc/?username=ricardozambon)
 
 I'm a developer from Brazil, I work with development since 2006, graduated in 2012.
 
