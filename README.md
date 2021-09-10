@@ -41,10 +41,10 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true" style="width: 480px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true" style="width: 470px" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon&layout=compact" style="width: 354px; padding-right: 0px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon&layout=compact" style="width: 344px; padding-right: 0px;" />
 </a>
 </div>
 
