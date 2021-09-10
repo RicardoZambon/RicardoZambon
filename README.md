@@ -40,11 +40,11 @@ I'm a developer from Brazil, I work with development since 2006, graduated in 20
 ### GitHub stats
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ricardozambon">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ricardozambon" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon" />
 </a>
 </div>
 
