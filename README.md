@@ -1,55 +1,83 @@
-## Hi there, I'm Ricardo Zambon 👋 ![](https://komarev.com/ghpvc/?username=ricardozambon)
+# Ricardo Zambon  
+Senior Full-Stack Engineer (.NET, Angular, Azure DevOps) | Technical Lead
 
-I'm a developer from Brazil, I work with development since 2006, graduated in 2012.
+I am a Senior Full-Stack Engineer and Technical Lead with over sixteen years of experience designing, building, and delivering enterprise-grade applications. My work spans high-scale backend systems in .NET, modern front-end architectures in Angular and TypeScript, and continuous delivery pipelines in Azure DevOps.
 
-- 🔭 I’m currently working in SMART Modular Technologies
-- 🌱 I’m currently learning Angular and MongoDB
-- 💬 Ask me about my YouTube Channel (please subscribe :D)
-- ⚡ Fun fact: I like play in Xbox (sorry Sony)
+Throughout my career, I have led engineering teams, established coding standards, improved software quality through code reviews and testing practices, and delivered mission-critical features for U.S. and international clients. I focus on building reliable, maintainable, and scalable solutions through clean architecture, strong typing, and well-structured development processes.
 
-### How to reach me
+My professional experience includes fully English-speaking environments, cross-functional collaboration, and participation in projects where engineering decisions directly impact business operations. I continuously invest in technical education, writing, and knowledge sharing.
 
-[<img align="left" alt="Ricardo Zambon | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ricardo Zambon | Medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Ricardo Zambon | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ricardo Zambon | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ricardo Zambon | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
-<br />
+## Core Competencies
 
-### Languages and tools
+- Full-Stack Development in .NET (C#), ASP.NET Web API, Angular, TypeScript  
+- Clean Architecture, REST API design, multi-layered systems  
+- SQL Server, T-SQL, query tuning, large-scale data processing  
+- Azure DevOps CI/CD pipelines, cloud integration, automation  
+- Unit testing with xUnit (backend) and Jasmine/Karma (frontend)  
+- Code quality, PR reviews, pair programming, and engineering leadership  
+- Technical writing, documentation, and cross-team communication  
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/visual-studio-code.png" />
-<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/csharp.png" />
-<img align="left" alt=".NET Core" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/netcore.png" />
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/bootstrap.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/javascript.png" />
-<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/sql.png" />
-<img align="left" alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/sqlserver.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/github.png" />
-<img align="left" alt="Microsoft Azure" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/azure.png" />
+---
 
-<br />
-<br />
+## Selected Projects
 
-### GitHub stats
+These public repositories represent the engineering principles I value: clarity, maintainability, strong typing, modularity, and predictable architecture.
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardozambon&count_private=true&show_icons=true" style="width: 470px" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardozambon&layout=compact" style="width: 344px; padding-right: 0px;" />
-</a>
-</div>
+### ZDatabase  
+Provider for database abstractions in .NET, with structured models for connections, commands, transactions, and result management.  
+https://github.com/RicardoZambon/ZDatabase
 
-[twitter]: https://twitter.com/rickzambon
-[youtube]: https://www.youtube.com/channel/UCWngDxayHzHSIfJRH5hjEmw
-[medium]: https://medium.com/@ricardo.zambon
-[instagram]: https://www.instagram.com/zambonricardo
-[linkedin]: https://www.linkedin.com/in/ricardozambon
+### ZSecurity  
+Security and authorization library for .NET projects. Includes token management, permissions support, and extensible authentication helpers.  
+https://github.com/RicardoZambon/ZSecurity
+
+### ZWebAPI  
+A clean and organized Web API template applying separation of concerns, typed patterns, middleware organization, request pipelines, and best practices for scalable backend services.  
+https://github.com/RicardoZambon/ZWebAPI
+
+### ZLibraries (Angular + Tailwind)  
+Component and utilities library for Angular applications using Tailwind CSS, structured for modular front-end architecture.  
+https://github.com/RicardoZambon/ZLibraries
+
+### Upcoming  
+A new repository focused on React will soon be added, demonstrating cross-framework versatility and modern front-end patterns.
+
+---
+
+## Technical Writing
+
+I maintain a growing collection of articles focused on software engineering, leadership, and development practices.  
+Most recent publication:  
+Why Coding Standards Matter — Lessons from Real Team Experience  
+https://medium.com/@ricardo.zambon/why-coding-standards-matter-lessons-from-real-team-experience-811bd7bc2d17
+
+---
+
+## Leadership & Technical Influence
+
+I have acted as a Technical Lead guiding engineering decisions, refining backlogs, ensuring code quality, mentoring developers, and maintaining cohesive architectural direction.  
+This includes establishing coding standards, reviewing cross-team pull requests, and improving delivery workflows through CI/CD pipelines and automation.
+
+I believe that strong engineering culture is built on clarity, consistency, and collaboration. My work reflects this across both front-end and back-end systems.
+
+---
+
+## Professional Focus
+
+I am dedicated to high-impact engineering, scalable architectures, and cross-border collaboration, with a consistent record of contributing to long-term, enterprise-level technical initiatives.
+
+---
+
+## Certifications
+
+Microsoft Certification: 70-483 – Programming in C#
+
+---
+
+## Contact
+
+GitHub: https://github.com/RicardoZambon  
+LinkedIn: https://linkedin.com/in/ricardozambon  
+Medium: https://medium.com/@ricardo.zambon
