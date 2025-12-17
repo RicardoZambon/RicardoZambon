@@ -1,22 +1,22 @@
 # Ricardo Zambon  
-Senior Full-Stack Engineer (.NET, Angular, Azure DevOps) | Technical Lead
+Senior Full-Stack Engineer (.NET, Angular, React, Azure DevOps) | Technical Lead
 
-I am a Senior Full-Stack Engineer and Technical Lead with over sixteen years of experience designing, building, and delivering enterprise-grade applications. My work spans high-scale backend systems in .NET, modern front-end architectures in Angular and TypeScript, and continuous delivery pipelines in Azure DevOps.
+Senior Full-Stack Engineer and Technical Lead with 16+ years of experience designing, building, and delivering enterprise-grade software. My background spans high-scale backend systems in .NET, modern front-end architectures in Angular and React, and CI/CD pipelines using Azure DevOps.
 
-Throughout my career, I have led engineering teams, established coding standards, improved software quality through code reviews and testing practices, and delivered mission-critical features for U.S. and international clients. I focus on building reliable, maintainable, and scalable solutions through clean architecture, strong typing, and well-structured development processes.
+I have worked extensively in fully English-speaking, cross-functional environments, contributing to projects where engineering decisions directly impacted business operations. My focus is on building reliable, maintainable, and scalable systems through clean architecture, strong typing, and disciplined engineering practices.
 
-My professional experience includes fully English-speaking environments, cross-functional collaboration, and participation in projects where engineering decisions directly impact business operations. I continuously invest in technical education, writing, and knowledge sharing.
+I actively invest in technical education, documentation, and knowledge sharing, with an emphasis on clarity, consistency, and long-term maintainability.
 
 ---
 
 ## Core Competencies
 
-- Full-Stack Development in .NET (C#), ASP.NET Web API, Angular, TypeScript  
-- Clean Architecture, REST API design, multi-layered systems  
-- SQL Server, T-SQL, query tuning, large-scale data processing  
-- Azure DevOps CI/CD pipelines, cloud integration, automation  
-- Unit testing with xUnit (backend) and Jasmine/Karma (frontend)  
-- Code quality, PR reviews, pair programming, and engineering leadership  
+- Full-Stack Development: .NET (C#), ASP.NET Web API, Angular, React, TypeScript  
+- Clean Architecture, REST API design, layered and modular systems  
+- SQL Server, T-SQL, performance tuning, large-scale data processing  
+- Azure DevOps CI/CD pipelines, automation, and cloud integration  
+- Unit testing with xUnit (backend) and modern JavaScript testing practices (frontend)  
+- Code quality, PR reviews, pair programming, and technical leadership  
 - Technical writing, documentation, and cross-team communication  
 
 ---
@@ -25,59 +25,48 @@ My professional experience includes fully English-speaking environments, cross-f
 
 These public repositories represent the engineering principles I value: clarity, maintainability, strong typing, modularity, and predictable architecture.
 
-### ZDatabase  
-Provider for database abstractions in .NET, with structured models for connections, commands, transactions, and result management.  
+### ZDatabase (.NET)
+Database abstraction provider with structured models for connections, commands, transactions, and result handling.  
 https://github.com/RicardoZambon/ZDatabase
 
-### ZSecurity  
-Security and authorization library for .NET projects. Includes token management, permissions support, and extensible authentication helpers.  
+### ZSecurity (.NET)
+Security and authorization library featuring token management, permission handling, and extensible authentication helpers.  
 https://github.com/RicardoZambon/ZSecurity
 
-### ZWebAPI  
-A clean and organized Web API template applying separation of concerns, typed patterns, middleware organization, request pipelines, and best practices for scalable backend services.  
+### ZWebAPI (.NET)
+A clean Web API template demonstrating separation of concerns, typed request pipelines, middleware organization, and scalable backend patterns.  
 https://github.com/RicardoZambon/ZWebAPI
 
-### ZLibraries (Angular + Tailwind)  
-Component and utilities library for Angular applications using Tailwind CSS, structured for modular front-end architecture.  
+### ZLibraries (Angular + Tailwind)
+Reusable component and utilities library for Angular applications, structured for modular and scalable front-end architecture.  
 https://github.com/RicardoZambon/ZLibraries
 
-### Upcoming  
-A new repository focused on React will soon be added, demonstrating cross-framework versatility and modern front-end patterns.
+### SecurityHub Lite (React)
+A lightweight React application demonstrating modern front-end patterns, state-driven UI, component composition, and clean project structure aligned with enterprise-grade frontend standards.  
+https://github.com/RicardoZambon/SecurityHub-Lite-React
 
 ---
 
 ## Technical Writing
 
-I maintain a growing collection of articles focused on software engineering, leadership, and development practices.  
-Most recent publication:  
-Why Coding Standards Matter — Lessons from Real Team Experience  
+I maintain a growing collection of articles focused on software engineering, leadership, and development practices.
+
+**Recent publication:**  
+*Why Coding Standards Matter — Lessons from Real Team Experience*  
 https://medium.com/@ricardo.zambon/why-coding-standards-matter-lessons-from-real-team-experience-811bd7bc2d17
 
 ---
 
 ## Leadership & Technical Influence
 
-I have acted as a Technical Lead guiding engineering decisions, refining backlogs, ensuring code quality, mentoring developers, and maintaining cohesive architectural direction.  
-This includes establishing coding standards, reviewing cross-team pull requests, and improving delivery workflows through CI/CD pipelines and automation.
+I have acted as a Technical Lead guiding architectural decisions, refining backlogs, mentoring developers, and ensuring consistent code quality across teams.
 
-I believe that strong engineering culture is built on clarity, consistency, and collaboration. My work reflects this across both front-end and back-end systems.
+My role frequently includes establishing coding standards, conducting cross-team code reviews, and improving delivery workflows through automation and CI/CD pipelines.
+
+I believe strong engineering culture is built on clarity, consistency, and collaboration — principles reflected across both my backend and frontend work.
 
 ---
 
 ## Professional Focus
 
-I am dedicated to high-impact engineering, scalable architectures, and cross-border collaboration, with a consistent record of contributing to long-term, enterprise-level technical initiatives.
-
----
-
-## Certifications
-
-Microsoft Certification: 70-483 – Programming in C#
-
----
-
-## Contact
-
-GitHub: https://github.com/RicardoZambon  
-LinkedIn: https://linkedin.com/in/ricardozambon  
-Medium: https://medium.com/@ricardo.zambon
+High-impact engineering, scalable architectures, and cross-border collaboration, with a consistent record of contributing to long-term, enterprise-level technical initiatives.
